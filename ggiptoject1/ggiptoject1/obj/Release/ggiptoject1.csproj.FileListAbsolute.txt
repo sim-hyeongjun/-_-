@@ -1,0 +1,11 @@
+C:\testproject\ggiptoject1\ggiptoject1\bin\Release\ggiptoject1.exe.config
+C:\testproject\ggiptoject1\ggiptoject1\bin\Release\ggiptoject1.exe
+C:\testproject\ggiptoject1\ggiptoject1\bin\Release\ggiptoject1.pdb
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.csproj.AssemblyReference.cache
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.csproj.SuggestedBindingRedirects.cache
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.Form1.resources
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.Properties.Resources.resources
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.csproj.GenerateResource.cache
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.csproj.CoreCompileInputs.cache
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.exe
+C:\testproject\ggiptoject1\ggiptoject1\obj\Release\ggiptoject1.pdb
